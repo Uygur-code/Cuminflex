@@ -1,3 +1,3 @@
 # Cuminflex
 
-<img src="https://github.com/Uygur-code/cuminflex/blob/main/cuminflex_logo.jpg" width=50/>
+<img src="https://github.com/Uygur-code/cuminflex/blob/main/cuminflex_logo.jpg" width=50/>  # Cuminflex
