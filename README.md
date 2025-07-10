@@ -1,4 +1,5 @@
-<h1 style="color:blue;">Cuminflex</h1>
-<p align="center">
+
+<h1 align="center">
  <img src="https://github.com/Uygur-code/cuminflex/blob/main/cuminflex_logo.jpg" width=80 align="center"> &nbsp; <img src="https://github.com/Uygur-code/cuminflex/blob/main/cuminflex_name.jpg" width=170 align="center">
-</p> 
+</h1> 
+Cuminflex is the fundamental GUI for oil and gas.
